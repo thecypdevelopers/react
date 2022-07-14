@@ -60,13 +60,11 @@ $ npm install react-native-background-geolocation --save
 - [Auto-linking Setup](help/INSTALL-ANDROID-AUTO.md)
 
 
-## :large_blue_diamond: Configure your license
+## :large_blue_diamond: Activar la licencia
 
-1. Login to Customer Dashboard to generate an application key:
-[www.transistorsoft.com/shop/customers](http://www.transistorsoft.com/shop/customers)
-![](https://gallery.mailchimp.com/e932ea68a1cb31b9ce2608656/images/b2696718-a77e-4f50-96a8-0b61d8019bac.png)
+1. The Cyprinus enviará el codigo de licencia por un medio seguro:
 
-2. Add your license-key to `android/app/src/main/AndroidManifest.xml`:
+2. Agregar linencia en  `android/app/src/main/AndroidManifest.xml`:
 
 ```diff
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
