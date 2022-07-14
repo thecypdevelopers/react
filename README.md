@@ -111,8 +111,6 @@ import BackgroundGeolocation, {
 
 ```
 
-For more information, see [this blog post](https://medium.com/@transistorsoft/new-feature-typescript-api-4a160a2c853b)
-
 ## :large_blue_diamond: Ejemplo
 
 There are three main steps to using `BackgroundGeolocation`
@@ -380,17 +378,15 @@ try {
 ## :large_blue_diamond: [Demo Application](https://github.com/transistorsoft/rn-background-geolocation-demo)
 
 A fully-featured [Demo App](https://github.com/transistorsoft/rn-background-geolocation-demo) is available in its own public repo.  After first cloning that repo, follow the installation instructions in the **README** there.  This demo-app includes a settings-screen allowing you to quickly experiment with all the different settings available for each platform.
+    
+Una aplicación de demostración con todas las funciones está disponible. Esta aplicación de demostración incluye una pantalla de configuración que le permite experimentar rápidamente con todas las diferentes configuraciones disponibles para cada plataforma. Solicitar a The Cyprinus.    
+    
 
 ![Home](https://dl.dropboxusercontent.com/s/wa43w1n3xhkjn0i/home-framed-350.png?dl=1)
 ![Settings](https://dl.dropboxusercontent.com/s/8oad228siog49kt/settings-framed-350.png?dl=1)
 
 
-## :large_blue_diamond: [Simple Testing Server](https://github.com/transistorsoft/background-geolocation-console)
+## :large_blue_diamond: [Conexión al servidor de prueba]
 
-A simple Node-based [web-application](https://github.com/transistorsoft/background-geolocation-console) with SQLite database is available for field-testing and performance analysis.  If you're familiar with Node, you can have this server up-and-running in about **one minute**.
-
-![](https://dl.dropboxusercontent.com/s/px5rzz7wybkv8fs/background-geolocation-console-map.png?dl=1)
-
-![](https://dl.dropboxusercontent.com/s/tiy5b2oivt0np2y/background-geolocation-console-grid.png?dl=1)
-
+Solicitar accesos a The Cyprinus
 
