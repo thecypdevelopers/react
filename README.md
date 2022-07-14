@@ -46,7 +46,7 @@ yarn add react-native-background-geolocation
 $ npm install react-native-background-geolocation --save
 ```
 
-## :large_blue_diamond: Setup Guides
+## :large_blue_diamond: Setup
 
 ### `react-native >= 0.60`
 
@@ -83,7 +83,7 @@ $ npm install react-native-background-geolocation --save
 </manifest>
 ```
 
-## :large_blue_diamond: Using the plugin ##
+## :large_blue_diamond: Uso del plugin ##
 
 ```javascript
 import BackgroundGeolocation from "react-native-background-geolocation";
@@ -113,7 +113,7 @@ import BackgroundGeolocation, {
 
 For more information, see [this blog post](https://medium.com/@transistorsoft/new-feature-typescript-api-4a160a2c853b)
 
-## :large_blue_diamond: Example
+## :large_blue_diamond: Ejemplo
 
 There are three main steps to using `BackgroundGeolocation`
 1. Wire up event-listeners.
