@@ -137,10 +137,10 @@ BackgroundGeolocation.start();
 ```
 
 
-### Example 1. &mdash; React *Functional Component*
+### Ejemplo 1. &mdash; React *Functional Component*
 
 <details>
-  <summary>Show Source</summary>
+  <summary>Ver Código</summary>
 
 ```javascript
 
@@ -241,10 +241,10 @@ export default HelloWorld;
 
 </details>
 
-### Example 2. &mdash; React *Class Component*
+### Ejemplo 2. &mdash; React *Class Component*
 
 <details>
-  <summary>Show Source</summary>
+  <summary>Ver Código</summary>
 
 ```javascript
 import React from 'react';
