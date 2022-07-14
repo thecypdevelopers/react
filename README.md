@@ -1,36 +1,29 @@
-Background Geolocation for React Native &middot; [![npm](https://img.shields.io/npm/dm/react-native-background-geolocation.svg)]() [![npm](https://img.shields.io/npm/v/react-native-background-geolocation.svg)]()
+The Cyprinus Background Geolocation for React Native &middot;
 ============================================================================
 
-[![](https://dl.dropboxusercontent.com/s/nm4s5ltlug63vv8/logo-150-print.png?dl=1)](https://www.transistorsoft.com)
 
 -------------------------------------------------------------------------------
 
-The *most* sophisticated background **location-tracking & geofencing** module with battery-conscious motion-detection intelligence for **iOS** and **Android**.
+El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** en segundo plano con inteligencia de detección de movimiento consciente de la batería para **iOS** y **Android**.
 
-The plugin's [Philosophy of Operation](../../wiki/Philosophy-of-Operation) is to use **motion-detection** APIs (using accelerometer, gyroscope and magnetometer) to detect when the device is *moving* and *stationary*.
+**detección de movimiento** (usando acelerómetro, giroscopio y magnetómetro) para detectar cuando el dispositivo se *mueve* y *estacionario*.
 
-- When the device is detected to be **moving**, the plugin will *automatically* start recording a location according to the configured `distanceFilter` (meters).
+- Cuando se detecta que el dispositivo **se está moviendo**, el complemento *automáticamente* comenzará a registrar una ubicación de acuerdo con el `distanceFilter` (metros) configurado.
 
-- When the device is detected be **stationary**, the plugin will automatically turn off location-services to conserve energy.
+- Cuando se detecta que el dispositivo está **estacionario**, el complemento desactivará automáticamente los servicios de ubicación para conservar energía.
 
-Also available for [Flutter](https://github.com/transistorsoft/flutter_background_geolocation), [Cordova](https://github.com/transistorsoft/cordova-background-geolocation-lt), [NativeScript](https://github.com/transistorsoft/nativescript-background-geolocation-lt) and pure native apps.
-
-----------------------------------------------------------------------------
-
-The **[Android module](http://www.transistorsoft.com/shop/products/react-native-background-geolocation)** requires [purchasing a license](http://www.transistorsoft.com/shop/products/react-native-background-geolocation).  However, it *will* work for **DEBUG** builds.  It will **not** work with **RELEASE** builds [without purchasing a license](http://www.transistorsoft.com/shop/products/react-native-background-geolocation).
-
-(2018) This plugin is supported **full-time** and field-tested **daily** since 2013.
+[Flutter](https://github.com/thecypdevelopers/flutter_background_geolocation)
+[Cordova](https://github.com/thecypdevelopers/cordova-background-geolocation-lt)
+[NativeScript](https://github.com/thecypdevelopers/nativescript-background-geolocation-lt)
 
 ----------------------------------------------------------------------------
-
-[![Google Play](https://dl.dropboxusercontent.com/s/80rf906x0fheb26/google-play-icon.png?dl=1)](https://play.google.com/store/apps/details?id=com.transistorsoft.backgroundgeolocation.react)
 
 ![Home](https://dl.dropboxusercontent.com/s/wa43w1n3xhkjn0i/home-framed-350.png?dl=1)
 ![Settings](https://dl.dropboxusercontent.com/s/8oad228siog49kt/settings-framed-350.png?dl=1)
 
 # Contents
 - ### 😫 [Help!](../../wiki/Help)
-- ### :books: [API Documentation](https://transistorsoft.github.io/react-native-background-geolocation)
+- ### :books: [API Documentation](/react-native-background-geolocation)
 - ### [Installing the Plugin](#large_blue_diamond-installing-the-plugin)
 - ### [Setup Guides](#large_blue_diamond-setup-guides)
 - ### [Configure your License](#large_blue_diamond-configure-your-license)
@@ -412,29 +405,5 @@ A simple Node-based [web-application](https://github.com/transistorsoft/backgrou
 ![](https://dl.dropboxusercontent.com/s/px5rzz7wybkv8fs/background-geolocation-console-map.png?dl=1)
 
 ![](https://dl.dropboxusercontent.com/s/tiy5b2oivt0np2y/background-geolocation-console-grid.png?dl=1)
-
-# License
-
-The MIT License (MIT)
-
-Copyright (c) 2018 Chris Scott, Transistor Software
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 
