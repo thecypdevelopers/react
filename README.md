@@ -23,7 +23,7 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 - ### [Ejemplo](#large_blue_diamond-example)
 - ### [Debug](../../wiki/Debugging)
 - ### [Applicación Demo](#large_blue_diamond-demo-application)
-- ### [Testeo del server](#large_blue_diamond-simple-testing-server)
+- ### [Conexión al servidor de prueba](#large_blue_diamond-simple-testing-server)
 
 ## :large_blue_diamond: Instalación del plugin
 
