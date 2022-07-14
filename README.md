@@ -25,11 +25,9 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 - ### [Applicación Demo](#large_blue_diamond-demo-application)
 - ### [Testeo del server](#large_blue_diamond-simple-testing-server)
 
-## :large_blue_diamond: Installing the Plugin
+## :large_blue_diamond: Instalación del plugin
 
 -------------------------------------------------------------
-
-:warning: If you have a previous version of **`react-native-background-geolocation < 3.2.0`** installed into **`react-native >= 0.60`**, you should first `unlink` your previous version as `react-native link` is no longer required.
 
 ```bash
 $ react-native unlink react-native-background-geolocation
