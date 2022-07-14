@@ -12,13 +12,8 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 
 - Cuando se detecta que el dispositivo está **estacionario**, el complemento desactivará automáticamente los servicios de ubicación para conservar energía.
 
-[Cordova](https://github.com/thecypdevelopers/cordova-background-geolocation-lt)
-[NativeScript](https://github.com/thecypdevelopers/nativescript-background-geolocation-lt)
 
 ----------------------------------------------------------------------------
-
-![Home](https://dl.dropboxusercontent.com/s/wa43w1n3xhkjn0i/home-framed-350.png?dl=1)
-![Settings](https://dl.dropboxusercontent.com/s/8oad228siog49kt/settings-framed-350.png?dl=1)
 
 # Contents
 - ### 😫 [Help!](../../wiki/Help)
