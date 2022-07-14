@@ -351,7 +351,7 @@ export default class HelloWorld extends React.Component {
 
 ### Promise API
 
-The `BackgroundGeolocation` Javascript API supports [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) for *nearly* every method (the exceptions are **`#watchPosition`** and adding event-listeners via **`#onXXX`** method (eg: `onLocation`).  For more information, see the [API Documentation](https://transistorsoft.github.io/react-native-background-geolocation-android)
+The `BackgroundGeolocation` Javascript API supports [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) for *nearly* every method (the exceptions are **`#watchPosition`** and adding event-listeners via **`#onXXX`** method (eg: `onLocation`).
 
 ```javascript
 BackgroundGeolocation.ready({
@@ -375,10 +375,9 @@ try {
 }
 ```
 
-## :large_blue_diamond: [Demo Application](https://github.com/transistorsoft/rn-background-geolocation-demo)
+## :large_blue_diamond: Demo Application
 
-A fully-featured [Demo App](https://github.com/transistorsoft/rn-background-geolocation-demo) is available in its own public repo.  After first cloning that repo, follow the installation instructions in the **README** there.  This demo-app includes a settings-screen allowing you to quickly experiment with all the different settings available for each platform.
-    
+   
 Una aplicación de demostración con todas las funciones está disponible. Esta aplicación de demostración incluye una pantalla de configuración que le permite experimentar rápidamente con todas las diferentes configuraciones disponibles para cada plataforma. Solicitar a The Cyprinus.    
     
 
@@ -386,7 +385,7 @@ Una aplicación de demostración con todas las funciones está disponible. Esta 
 ![Settings](https://dl.dropboxusercontent.com/s/8oad228siog49kt/settings-framed-350.png?dl=1)
 
 
-## :large_blue_diamond: [Conexión al servidor de prueba]
+## :large_blue_diamond: Conexión al servidor de prueba
 
 Solicitar accesos a The Cyprinus
 
