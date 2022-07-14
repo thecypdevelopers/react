@@ -16,8 +16,6 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 ----------------------------------------------------------------------------
 
 # Contents
-- ### 😫 [Help!](../../wiki/Help)
-- ### :books: [API Documentation](/react-native-background-geolocation)
 - ### [Installing the Plugin](#large_blue_diamond-installing-the-plugin)
 - ### [Setup Guides](#large_blue_diamond-setup-guides)
 - ### [Configure your License](#large_blue_diamond-configure-your-license)
