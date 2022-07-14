@@ -65,7 +65,7 @@ $ npm install react-native-background-geolocation --save
 
 ```diff
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.transistorsoft.backgroundgeolocation.react">
+    package="com.thecyprinus.backgroundgeolocation.react">
 
   <application
     android:name=".MainApplication"
@@ -75,7 +75,7 @@ $ npm install react-native-background-geolocation --save
     android:theme="@style/AppTheme">
 
     <!-- react-native-background-geolocation licence -->
-+     <meta-data android:name="com.transistorsoft.locationmanager.license" android:value="YOUR_LICENCE_KEY_HERE" />
++     <meta-data android:name="com.thecyprinus.locationmanager.license" android:value="YOUR_LICENCE_KEY_HERE" />
     .
     .
     .
