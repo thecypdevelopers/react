@@ -1,4 +1,4 @@
-The Cyprinus Background Geolocation for React Native &middot;
+The Cyprinus - React Native &middot;
 ============================================================================
 
 
@@ -15,16 +15,15 @@ El módulo *más* sofisticado de **seguimiento de ubicación y geoperimetraje** 
 
 ----------------------------------------------------------------------------
 
-# Contents
-- ### [Installing the Plugin](#large_blue_diamond-installing-the-plugin)
-- ### [Setup Guides](#large_blue_diamond-setup-guides)
-- ### [Configure your License](#large_blue_diamond-configure-your-license)
-- ### [Using the plugin](#large_blue_diamond-using-the-plugin)
-- ### [Example](#large_blue_diamond-example)
-- ### [Debugging](../../wiki/Debugging)
-- ### [Demo Application](#large_blue_diamond-demo-application)
-- ### [Testing Server](#large_blue_diamond-simple-testing-server)
-- ### [Privacy Policy](help/PRIVACY_POLICY.md)
+# Contenido
+- ### [Instalación de Plugin](#large_blue_diamond-installing-the-plugin)
+- ### [Setup](#large_blue_diamond-setup-guides)
+- ### [Ingresar la licencia](#large_blue_diamond-configure-your-license)
+- ### [Uso del plugin](#large_blue_diamond-using-the-plugin)
+- ### [Ejemplo](#large_blue_diamond-example)
+- ### [Debug](../../wiki/Debugging)
+- ### [Applicación Demo](#large_blue_diamond-demo-application)
+- ### [Testeo del server](#large_blue_diamond-simple-testing-server)
 
 ## :large_blue_diamond: Installing the Plugin
 
